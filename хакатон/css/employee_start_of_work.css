@@ -1,0 +1,14 @@
+.back{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.ampolotee_start{
+    position: absolute;
+    height: 18px; 
+    width: 105px;
+    top: 50%;
+    left: 50%;
+    color: black;
+    background-color: #0fcc12;
+}
